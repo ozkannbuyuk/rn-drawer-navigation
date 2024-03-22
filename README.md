@@ -2,6 +2,10 @@
    React Native - Drawer Navigation
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/rn-drawer-navigation/assets/111967202/36be3721-03ac-4eab-bbfb-6cb078b75015" width="700" />
 </p>
